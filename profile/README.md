@@ -17,7 +17,7 @@ We're development awesome software in-house:
   - PhpStan >= 8 level
   - PhpUnit
   - AMQP
-- e-commerce [https://lampa.lv](https://lampa.lv)
+- e-commerce [https://bankoflamps.com](https://bankoflamps.com)
   - Symfony 6+
   - PHP 8.2+
   - Docker
